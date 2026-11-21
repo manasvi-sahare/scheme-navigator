@@ -1,0 +1,21 @@
+scheme_name,category,level,official_url,status
+PM-KISAN,agriculture,central,https://pmkisan.gov.in,not_collected
+PM Fasal Bima Yojana,agriculture,central,https://pmfby.gov.in,not_collected
+Kisan Credit Card,agriculture,central,,not_collected
+Soil Health Card,agriculture,central,,not_collected
+PM-KUSUM,agriculture,central,,not_collected
+Raitha Siri,agriculture,state,,not_collected
+Krishi Bhagya,agriculture,state,,not_collected
+Post-Matric Scholarship,education,central,https://scholarships.gov.in,not_collected
+Pre-Matric Scholarship,education,central,https://scholarships.gov.in,not_collected
+Vidyasiri,education,state,,not_collected
+Ayushman Bharat PM-JAY,health,central,https://pmjay.gov.in,not_collected
+Janani Suraksha Yojana,health,central,,not_collected
+Pradhan Mantri Jan Aushadhi,health,central,,not_collected
+Arogya Karnataka,health,state,,not_collected
+Indira Gandhi National Widow Pension,women_child,central,,not_collected
+Pradhan Mantri Matru Vandana Yojana,women_child,central,,not_collected
+Sukanya Samriddhi Yojana,women_child,central,,not_collected
+Gruha Lakshmi,women_child,state,,not_collected
+Bhagyalakshmi,women_child,state,,not_collected
+Sandhya Suraksha,women_child,state,,not_collected
